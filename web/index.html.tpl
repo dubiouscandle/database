@@ -595,6 +595,9 @@
                 <li>
                   <a href="https://chess.tutlis.com/">Find how you're connected to any Lichess player through a chain of victories</a>
                 </li>
+                <li>
+                  <a href="https://elo-guesser.dubiouscandle.com/">AI predicts player ratings from moves</a>
+                </li>
               </ul>
           </ol>
           <p>
